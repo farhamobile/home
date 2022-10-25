@@ -1,0 +1,47 @@
+#time{
+ 
+  
+  display: block;
+  margin: 0;
+  position: relative;
+  padding: 2em 2em;
+}
+#day{
+
+  margin-top: -227px;
+  padding-left: 154px;
+}
+.ttt{
+  font-weight: bold;
+  color: #fff;
+}
+
+.peopl{
+  padding-top: 17px;
+}
+.lll{
+  font-weight: bold;
+  padding-top: 42px;
+  color: #fff;
+}
+
+.loc{
+  padding-top: 16px;
+  
+
+}
+.co{
+  color: #fff;
+}
+
+.arrow{
+  border-radius: 50px;
+}
+.ow{
+  color:#fff;
+  font-weight: bold;
+}
+.shopp{
+  color: #fff;
+  font-weight: bold;
+}
